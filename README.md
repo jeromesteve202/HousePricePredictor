@@ -1,4 +1,4 @@
-# HousePricePredictor
+# House Price Predictor
 
 Created a script that can predict the house of a price using Machine Learning. The data is pulled from a CSV file and the price is predicted through a linear regression test.
 
